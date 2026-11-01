@@ -64,5 +64,144 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Yatmo is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://yatmo.com
+Yatmo provides location intelligence, points‑of‑interest data and mapping APIs for real‑estate portals, software and apps. Their REST API offers neighbourhood content, POI lookup, isochrone calculations and map embeds, enabling developers to integrate rich geographic context into their products.
+
+**Areas:** Company · Real Estate · Location Intelligence · MappingAPI · POI
+
+## Yatmo on APIs.io
+
+Everything profiled for Yatmo is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/yatmo/](https://apis.io/providers/yatmo/)** — or go straight to one of the APIs or properties below.
+
+### APIs (17)
+
+- [Yatmo Bike Paths API](https://apis.io/apis/yatmo/yatmo-bikepaths-api/) — The BikePaths API from Yatmo — 1 operation(s) for bikepaths.
+- [Yatmo Categories API](https://apis.io/apis/yatmo/yatmo-categories-api/) — The Categories API from Yatmo — 3 operation(s) for categories.
+- [Yatmo Enrichment API](https://apis.io/apis/yatmo/yatmo-enrichment-api/) — The Enrichment API from Yatmo — 1 operation(s) for enrichment.
+- [Yatmo French Neighbourhoods API](https://apis.io/apis/yatmo/yatmo-frenchneighbourhoods-api/) — The FrenchNeighbourhoods API from Yatmo — 1 operation(s) for frenchneighbourhoods.
+- [Yatmo Geolocation API](https://apis.io/apis/yatmo/yatmo-geolocation-api/) — The Geolocation API from Yatmo — 2 operation(s) for geolocation.
+- [Yatmo Geo Position Encoder API](https://apis.io/apis/yatmo/yatmo-geopositionencoder-api/) — The GeoPositionEncoder API from Yatmo — 2 operation(s) for geopositionencoder.
+- [Yatmo Image API](https://apis.io/apis/yatmo/yatmo-image-api/) — The Image API from Yatmo — 1 operation(s) for image.
+- [Yatmo Immotop Categories API](https://apis.io/apis/yatmo/yatmo-immotopcategories-api/) — The ImmotopCategories API from Yatmo — 1 operation(s) for immotopcategories.
+- [Yatmo Isochrone API](https://apis.io/apis/yatmo/yatmo-isochrone-api/) — The Isochrone API from Yatmo — 3 operation(s) for isochrone.
+- [Yatmo Near Check API](https://apis.io/apis/yatmo/yatmo-nearcheck-api/) — The NearCheck API from Yatmo — 1 operation(s) for nearcheck.
+- [Yatmo Neighbourhood API](https://apis.io/apis/yatmo/yatmo-neighbourhood-api/) — The Neighbourhood API from Yatmo — 1 operation(s) for neighbourhood.
+- [Yatmo Points API](https://apis.io/apis/yatmo/yatmo-points-api/) — The Points API from Yatmo — 1 operation(s) for points.
+- [Yatmo Route API](https://apis.io/apis/yatmo/yatmo-route-api/) — The Route API from Yatmo — 2 operation(s) for route.
+- [Yatmo Scores API](https://apis.io/apis/yatmo/yatmo-scores-api/) — The Scores API from Yatmo — 1 operation(s) for scores.
+- [Yatmo Shape API](https://apis.io/apis/yatmo/yatmo-shape-api/) — The Shape API from Yatmo — 1 operation(s) for shape.
+- [Yatmo Simplified Categories API](https://apis.io/apis/yatmo/yatmo-simplifiedcategories-api/) — The SimplifiedCategories API from Yatmo — 1 operation(s) for simplifiedcategories.
+- [Yatmo Summary API](https://apis.io/apis/yatmo/yatmo-summary-api/) — The Summary API from Yatmo — 6 operation(s) for summary.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Yatmo Agentic Access](https://apis.io/agentic-access/yatmo/yatmo-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [Category](https://apis.io/schemas/yatmo/yatmo-category/)
+- [CustomerItemSummary](https://apis.io/schemas/yatmo/yatmo-customer-item-summary/)
+- [ImmotopCategory](https://apis.io/schemas/yatmo/yatmo-immotop-category/)
+- [ListingEnrichment](https://apis.io/schemas/yatmo/yatmo-listing-enrichment/)
+- [PointOfInterestForSmallOptimizedJson](https://apis.io/schemas/yatmo/yatmo-point-of-interest-for-small-optimized-json/)
+- [RouteResponse](https://apis.io/schemas/yatmo/yatmo-route-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Yatmo Context](https://apis.io/jsonld/yatmo/yatmo-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Yatmo API Rules](https://apis.io/rules/yatmo/yatmo-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Yatmo Authentication](https://apis.io/security/yatmo/yatmo-authentication/)
+- [Yatmo Domain Security](https://apis.io/security/yatmo/yatmo-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Yatmo Plans Pricing](https://apis.io/plans/yatmo/yatmo-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://yatmo.com)
+- [Documentation](https://documentation.yatmo.com)
+- [Getting started](https://documentation.yatmo.com/getting-started)
+- [API reference](https://documentation.yatmo.com/llms.txt)
+- [Pricing](https://yatmo.com/pricing)
+- [Terms of service](https://yatmo.com/fr/legal/termsofsales)
+- [Privacy policy](https://documentation.yatmo.com/privacy)
+- [GitHub](https://github.com/Yatmo)
+
+## API Evangelist rating
+
+**Kin Score 44.1** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 73.2 |
+| Contract quality | 50.9 |
+| Contract governance | 22.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 47.6 |
+| Access clarity | 52.6 |
+
+**Agent readiness 21.4** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | derived (partial credit) |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/yatmo/](https://apis.io/providers/yatmo/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Yatmo: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/yatmo/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
